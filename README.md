@@ -82,5 +82,11 @@ The code includes optional Firestore persistence via Google Cloud Application De
 5. Demonstrate Gemini and Firestore only if configured and verified.
 6. Show the source repository, test results and Cloud Run deployment.
 
+## Demo and submission links
+- **Live prototype:** https://aivora-rescuegraph-387999824353.asia-south1.run.app
+- **Demo video (YouTube):** https://youtu.be/M04Hek2iykw
+- **Challenge theme:** BFSI - Intelligent Risk, Fraud & Financial Experiences
+- **Public source repository:** https://github.com/vaibhaviak/Aivora-RescueGraph
+
 ## License
-No license is currently included. Choose one after deciding how you want to permit reuse.
+This repository currently includes an all-rights-reserved notice in `LICENSE`. Replace it with an open-source license only after confirming the contributors want to permit reuse.
